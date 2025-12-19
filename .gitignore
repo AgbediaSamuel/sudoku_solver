@@ -30,4 +30,8 @@ build/
 *.swo
 *~
 
+# Test output artifacts
+test_results_complete.txt
+test_results*.txt
+
 
