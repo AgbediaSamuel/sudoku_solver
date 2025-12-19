@@ -1,0 +1,7 @@
+# Core dependencies
+pyswip>=0.2.10
+
+# Tkinter is part of Python standard library
+
+# For development/testing (optional):
+# pytest
